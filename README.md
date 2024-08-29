@@ -17,7 +17,7 @@ Features I think could positively enhance the player's experience are (sorted by
 
 3. Relating to the variation, gradually increasing difficulty as the player progresses by higher speeds more difficult patterns or more colors, etc. 
 
-4. With the grading difficulty also grading audiovisual effects such as the field of view getting narrower, increasing some other overlay effect, or dynamically intensifying of the background music (beats per minute increasing)
+4. With the grading difficulty also grading audiovisual effects such as the field of view getting narrower, increasing some other overlay effect(blur,noise...), or dynamically intensifying of the background music (beats per minute increasing)
 
 5. Time rush levels - levels where players need to complete the level under a certain time limit.
 
