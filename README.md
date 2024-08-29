@@ -11,14 +11,16 @@ Features I think could positively enhance the player's experience are (sorted by
 
 1. Storytelling and features relating to it such as not randomly generated levels that have thematic obstacle visuals, audio, and background visuals. This could be implemented with the aforementioned features along with short story segments in-between the levels.
 
-3. Other background sounds and mainly continuous music related to the level.
+2. Other background sounds and mainly continuous music related to the level.
 
-2. More variation in the obstacles either by making completely different ones or by creating a variety in the movement/behavior of the existing ones. E.g. adjusting the speedcurve function of the spinning circle or random patterns of changing colors on the rectangular obstacle instead of just colors shifting to the right.  Dynamically (throughout one level or upon passing a color-changing item) or cyclically (from level to level) changing of the overall color palette could work too.
+3. Background visuals static but animated could be more interesting e.g. moving from the dark depths through the jungle into the clouds.
 
-3. Relating to the variation, gradually increasing difficulty as the player progresses by higher speeds more difficult patterns or more colors, etc. 
+4. More variation in the obstacles either by making completely different ones or by creating a variety in the movement/behavior of the existing ones. E.g. adjusting the speedcurve function of the spinning circle or random patterns of changing colors on the rectangular obstacle instead of just colors shifting to the right.  Dynamically (throughout one level or upon passing a color-changing item) or cyclically (from level to level) changing of the overall color palette could work too.
 
-4. With the grading difficulty also grading audiovisual effects such as the field of view getting narrower, increasing some other overlay effect(blur,noise...), or dynamically intensifying of the background music (beats per minute increasing)
+5. Relating to the variation, gradually increasing difficulty as the player progresses by higher speeds more difficult patterns or more colors, etc. 
 
-5. Time rush levels - levels where players need to complete the level under a certain time limit.
+6. With the grading difficulty also grading audiovisual effects such as the field of view getting narrower, increasing some other overlay effect(blur,noise...), or dynamically intensifying of the background music (beats per minute increasing)
 
-6.  Score and time leaderboards  - player data from levels with a set amount of obstacles, etc could be saved and shared so that players can compete between each other. 
+7. Time rush levels - levels where players need to complete the level under a certain time limit.
+
+8.  Score and time leaderboards  - player data from levels with a set amount of obstacles, etc could be saved and shared so that players can compete between each other. 
