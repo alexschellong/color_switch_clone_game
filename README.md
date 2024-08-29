@@ -1,7 +1,7 @@
 # color_switch_clone_game
 Helsinki XR center coding task
 
-WebGL url: https://buildtest.maweb.eu/
+WebGL url: https://buildtest.maweb.eu/ (slow loading time)
 
 
 __Tell us what features would you like to add to the gameplay and how would you go about
