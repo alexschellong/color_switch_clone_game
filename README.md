@@ -2,9 +2,8 @@
 Helsinki XR center coding task
 
 WebGL url: https://buildtest.maweb.eu/
-|
-|
-|
+
+
 Tell us what features would you like to add to the gameplay and how would you go about
 implementing them? 
 
